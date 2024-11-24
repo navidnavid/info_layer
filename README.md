@@ -6,10 +6,10 @@ the idea:
  e.g macro observe see potentioal energy = enrgy lacks due to conversion to info.
  micro observer will not see temprature ( just vabratino ) = kenetic and not info = potential. 
 
-
+Or why not the info from micro addable to macro ?
  ---
  clasify_num.py -> devide list num to two gropys based on the distance to mean-> macro to micro 
- cal_info-> cal etp of signal and max etp of that. 
+ cal_info.py-> cal etp of signal and max etp of that. 
  ---
 
  Todo:
